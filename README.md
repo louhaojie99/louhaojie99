@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! I'm HJ 👋🏼
 
 <!--
 **louhaojie99/louhaojie99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-成家❤️：https://louhaojie99.github.io/MyLove/
+❤️ 成家：https://louhaojie99.github.io/MyLove/
 
-立业💻：https://roadmap.sh/frontend/
+💻 立业：https://roadmap.sh/frontend/
