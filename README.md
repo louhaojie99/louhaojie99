@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-❤️ 成家：https://louhaojie99.github.io/MyLove/
-
-💻 立业：https://roadmap.sh/frontend/
