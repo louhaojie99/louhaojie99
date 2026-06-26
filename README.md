@@ -4,7 +4,7 @@
 
 ### 💻 技术栈
 
-HTML、CSS、JavaScript、TypeScript、React、Vue、NextJs、UniApp、Taro、React Native、Electron、NodeJs、Python、Java、LangChain、LangGraph、MySQL、PostgreSQL、Redis、Linux、Docker、Nginx、Git、PNPM
+HTML、CSS、JavaScript、TypeScript、React、Vue、NextJs、UniApp、Taro、React Native、Electron、NodeJs、Python、Java、LangChain、LangGraph、MySQL、PostgreSQL、Redis、Linux、Docker、Nginx、Git、Pnpm
 
 <!-- 贪吃蛇动画 -->
 
