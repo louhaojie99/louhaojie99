@@ -1,13 +1,23 @@
-### 你好 👋🏼
+# Hello 👋🏼
 
-🧑‍💻 Agent 开发全栈工程师
+## 🧑‍💻 Agent Dev
 
-### 💻 技术栈
+- **Prompt Engineering（提示词工程）** 
+- **Context Engineering（上下文工程）** 
+- **Harness Engineering（驾驭工程）**
+- **Loop Engineering（循环工程）**
 
-HTML、CSS、JavaScript、TypeScript、React、Vue、NextJs、UniApp、Taro、React Native、Electron、NodeJs、Python、Java、LangChain、LangGraph、MySQL、PostgreSQL、Redis、Linux、Docker、Nginx、Git、Pnpm
+## 💻 Tech Stack
+
+### Frontend
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Vue` · `Next.js` · `UniApp` · `Taro` · `React Native` · `Electron` · `Node.js`
+
+
+
+### Backend
+`Python` · `Java` · `LangChain` · `LangGraph` · `MySQL` · `PostgreSQL` · `Redis` · `Linux` · `Docker` · `Nginx` · `Git` · `pnpm`
 
 <!-- 贪吃蛇动画 -->
-
 
 <!-- 深色统计卡片（稳定镜像） -->
 <div>
